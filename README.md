@@ -28,6 +28,14 @@ This project is a **Java 11+ reactive application** that simulates a live data s
 
 ---
 
+## Pre-built JAR
+
+A pre-built runnable JAR is available in the target folder. If you want, you can simply run it without building from source:
+
+```bash
+
+java -jar target/Demo-1.0-SNAPSHOT-shaded.jar
+```
 ## Build Instructions
 
 Clone the repository and build the shaded JAR:
